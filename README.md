@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mena Magdy Halem</h1>
 <h3 align="center">I’m DevOps/Cloud Engineer</h3>
 
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menamagdyhalem&label=Profile%20views&color=0e75b6&style=flat" alt="menamagdyhalem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menamagdyhalem" alt="menamagdyhalem" /></a> </p>
