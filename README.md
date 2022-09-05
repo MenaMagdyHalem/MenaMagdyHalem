@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mena Magdy Halem</h1>
 <h3 align="center">I’m DevOps/Cloud Engineer</h3>
 
-![Header](./github-header-image.png)
+![Header](./cover.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menamagdyhalem&label=Profile%20views&color=0e75b6&style=flat" alt="menamagdyhalem" /> </p>
